@@ -21,8 +21,6 @@
         {"predicate": {"damaged": 0, "damage": 0.424242424242424}, "model": "magic:wands/lavad"},
         {"predicate": {"damaged": 0, "damage": 0.2}, "model": "magic:weapons/solar_striker"},
 
-
-
         {"predicate": {"damaged": 1, "damage": 0}, "model": "item/golden_sword"},
 
         {"predicate": {"custom_model_data": 18001}, "model": "magic:weapons/emerald_sword"},
